@@ -1,0 +1,5 @@
+<?php
+$a = array("https://i.imgur.com/qk2mlQf.png", "https://i.imgur.com/sc0fyBj.png", "https://imgur.com/HfrkP6m.png", "https://imgur.com/F1stRjh.png", "https://i.imgur.com/lmTqrN0.png", "https://i.imgur.com/I4BZ4ww.png", "https://i.imgur.com/VH7JI6C.jpg", "https://i.imgur.com/u9gMCZU.jpg", "https://i.imgur.com/4VBIyF8.jpg", "https://i.imgur.com/UinWq2d.jpg", "https://i.imgur.com/0gJgWn1.jpg", "https://i.imgur.com/Kd6rVwB.png", "https://i.imgur.com/coZ8Izi.jpg", "https://i.imgur.com/ViUxZ54.png", "https://i.imgur.com/Ty6koG0.png", "https://i.imgur.com/DcfOgJs.png", "https://i.imgur.com/g9ZlwXN.png", "https://i.imgur.com/sFrGDb3.png", "https://i.imgur.com/wIp4SLC.png", "https://i.imgur.com/XPuGFxT.png", "https://i.imgur.com/ffumBXJ.jpg", "https://i.imgur.com/LRcZKDv.png", "https://i.imgur.com/3bKZhLL.png", "https://i.imgur.com/fzffjeh.png", "https://i.imgur.com/0ZnI215.png", "https://i.imgur.com/zDhAPfp.png", "https://i.imgur.com/GYVvhBx.png", "https://i.imgur.com/aQIzGnG.png");
+shuffle($a);
+echo $a[1]
+?>
